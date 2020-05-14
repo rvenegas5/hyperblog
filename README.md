@@ -1,5 +1,6 @@
 # hyperblog
 **Un blog increíble.**
+* Creado por el increible William Venegas
 >Disponible para todas las personas que deseen empezar con un blog.
 [![BLOG](https://blog.mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png "BLOG")](https://blog.mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png "BLOG")
 
